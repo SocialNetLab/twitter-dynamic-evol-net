@@ -8,7 +8,9 @@
 
 数据信息：2014年的两起黑人运动事件（Ferguson事件、New York Chokehold事件）中的twitter转发网络信息及用户信息
 
+
 数据来源：Twitter API获取
+
 
 数据文件说明：
 Ferguson_nodes.csv   						Ferguson事件的参与节点
@@ -29,6 +31,7 @@ fea_NYC_image_colors_norm.yaml				NYC事件的参与节点的头像色彩特征
 fea_NYC_image_category.yaml					NYC事件的参与节点的头像类别	
 fea_NYC_image_all.yaml						NYC事件的参与节点的所有头像特征
 NYC_profile_images.zip						NYC事件的参与节点的头像
+
 
 数据用途说明：
 新兴社交媒体为公众提供了分享意见、见解、经验和观点的工具和平台，也为媒体研究带来了海量的、高维的样本数据。如何充分利用这些数据，无论是对计算科学还是对传播学来说，都是面向现实的挑战。

@@ -14,6 +14,7 @@
 
 数据文件说明：
 Ferguson_nodes.csv   						Ferguson事件的参与节点
+
 Ferguson_edges.csv   						Ferguson事件的边（每条表指代转发关系，无转发则表示为孤立节点）
 fea_Ferguson_metrics.yaml					Ferguson事件的参与节点的数值特征
 fea_Ferguson_image_UserCategoryDic.yaml		Ferguson事件的参与节点的头像类别

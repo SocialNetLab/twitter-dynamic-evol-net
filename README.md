@@ -32,7 +32,7 @@ fea_Ferguson_image_category.yaml			------Ferguson事件的参与节点的头像�
 
 fea_Ferguson_image_all.yaml					------Ferguson事件的参与节点的所有头像特征
 
-Ferguson_profile_images.zip					------Ferguson事件的参与节点的头像（图像压缩包）
+Ferguson_profile_images.zip					------Ferguson事件的参与节点的头像【图像压缩包】
 
 NYC_nodes.csv   							       ------NYC事件的参与节点
 
@@ -50,7 +50,7 @@ fea_NYC_image_category.yaml				  	------NYC事件的参与节点的头像类别
 
 fea_NYC_image_all.yaml				  		------NYC事件的参与节点的所有头像特征
 
-NYC_profile_images.zip					  	------NYC事件的参与节点的头像（图像压缩包）
+NYC_profile_images.zip					  	------NYC事件的参与节点的头像【图像压缩包】
 
 
 数据用途说明：

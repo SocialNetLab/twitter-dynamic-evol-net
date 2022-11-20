@@ -9,7 +9,9 @@
 数据信息：2014年的两起黑人运动事件（Ferguson事件、New York Chokehold事件）中的twitter转发网络信息及用户信息
 
 
-数据来源：Twitter API获取
+数据来源：
+
+Twitter API获取
 
 
 数据文件说明：
@@ -30,13 +32,13 @@ fea_Ferguson_image_category.yaml			Ferguson事件的参与节点的头像类别
 
 fea_Ferguson_image_all.yaml					Ferguson事件的参与节点的所有头像特征
 
-Ferguson_profile_images.zip					Ferguson事件的参与节点的头像
+Ferguson_profile_images.zip					Ferguson事件的参与节点的头像（图像压缩包）
 
-NYC_nodes.csv   							NYC事件的参与节点
+NYC_nodes.csv   							       NYC事件的参与节点
 
-NYC_edges.csv   							NYC事件的边（每条表指代转发关系，无转发则表示为孤立节点）
+NYC_edges.csv   							       NYC事件的边（每条表指代转发关系，无转发则表示为孤立节点）
 
-fea_NYC_metrics.yaml						NYC事件的参与节点的数值特征
+fea_NYC_metrics.yaml						      NYC事件的参与节点的数值特征
 
 fea_NYC_image_UserCategoryDic.yaml			NYC事件的参与节点的头像类别
 
@@ -44,11 +46,11 @@ fea_NYC_image_sharpness_norm.yaml			NYC事件的参与节点的头像锐度特�
 
 fea_NYC_image_colors_norm.yaml				NYC事件的参与节点的头像色彩特征
 
-fea_NYC_image_category.yaml					NYC事件的参与节点的头像类别	
+fea_NYC_image_category.yaml				  	NYC事件的参与节点的头像类别	
 
-fea_NYC_image_all.yaml						NYC事件的参与节点的所有头像特征
+fea_NYC_image_all.yaml				  		NYC事件的参与节点的所有头像特征
 
-NYC_profile_images.zip						NYC事件的参与节点的头像
+NYC_profile_images.zip					  	NYC事件的参与节点的头像（图像压缩包）
 
 
 数据用途说明：
@@ -69,6 +71,6 @@ NYC_profile_images.zip						NYC事件的参与节点的头像
 
 
 文章引用信息如下：
-Wu X K , Zhao T F , Chen W N , et al. Toward Predicting Active Participants in Tweet Streams: A case study on Two Civil Rights Events[J]. IEEE Transactions on Knowledge and Data Engineering, 2020, PP(99):1-1.
+Wu X K, Zhao T F, Chen W N, et al. Toward Predicting Active Participants in Tweet Streams: A Case Study on Two Civil Rights Events[J]. IEEE Transactions on Knowledge & Data Engineering, 2022, 34(06): 2975-2987.
 
 

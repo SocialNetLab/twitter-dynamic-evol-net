@@ -16,41 +16,41 @@ Twitter API获取
 
 数据文件说明：
 
-Ferguson_nodes.csv   						Ferguson事件的参与节点
+Ferguson_nodes.csv   						------Ferguson事件的参与节点
 
-Ferguson_edges.csv   						Ferguson事件的边（每条表指代转发关系，无转发则表示为孤立节点）
+Ferguson_edges.csv   						------Ferguson事件的边（每条表指代转发关系，无转发则表示为孤立节点）
 
-fea_Ferguson_metrics.yaml					Ferguson事件的参与节点的数值特征
+fea_Ferguson_metrics.yaml					------Ferguson事件的参与节点的数值特征
 
-fea_Ferguson_image_UserCategoryDic.yaml		Ferguson事件的参与节点的头像类别
+fea_Ferguson_image_UserCategoryDic.yaml		------Ferguson事件的参与节点的头像类别
 
-fea_Ferguson_image_sharpness_norm.yaml		Ferguson事件的参与节点的头像锐度特征
+fea_Ferguson_image_sharpness_norm.yaml		------Ferguson事件的参与节点的头像锐度特征
 
-fea_Ferguson_image_colors_norm.yaml			Ferguson事件的参与节点的头像色彩特征
+fea_Ferguson_image_colors_norm.yaml			------Ferguson事件的参与节点的头像色彩特征
 
-fea_Ferguson_image_category.yaml			Ferguson事件的参与节点的头像类别	
+fea_Ferguson_image_category.yaml			------Ferguson事件的参与节点的头像类别	
 
-fea_Ferguson_image_all.yaml					Ferguson事件的参与节点的所有头像特征
+fea_Ferguson_image_all.yaml					------Ferguson事件的参与节点的所有头像特征
 
-Ferguson_profile_images.zip					Ferguson事件的参与节点的头像（图像压缩包）
+Ferguson_profile_images.zip					------Ferguson事件的参与节点的头像（图像压缩包）
 
-NYC_nodes.csv   							       NYC事件的参与节点
+NYC_nodes.csv   							       ------NYC事件的参与节点
 
-NYC_edges.csv   							       NYC事件的边（每条表指代转发关系，无转发则表示为孤立节点）
+NYC_edges.csv   							       ------NYC事件的边（每条表指代转发关系，无转发则表示为孤立节点）
 
-fea_NYC_metrics.yaml						      NYC事件的参与节点的数值特征
+fea_NYC_metrics.yaml						      ------NYC事件的参与节点的数值特征
 
-fea_NYC_image_UserCategoryDic.yaml			NYC事件的参与节点的头像类别
+fea_NYC_image_UserCategoryDic.yaml			------NYC事件的参与节点的头像类别
 
-fea_NYC_image_sharpness_norm.yaml			NYC事件的参与节点的头像锐度特征
+fea_NYC_image_sharpness_norm.yaml			------NYC事件的参与节点的头像锐度特征
 
-fea_NYC_image_colors_norm.yaml				NYC事件的参与节点的头像色彩特征
+fea_NYC_image_colors_norm.yaml				------NYC事件的参与节点的头像色彩特征
 
-fea_NYC_image_category.yaml				  	NYC事件的参与节点的头像类别	
+fea_NYC_image_category.yaml				  	------NYC事件的参与节点的头像类别	
 
-fea_NYC_image_all.yaml				  		NYC事件的参与节点的所有头像特征
+fea_NYC_image_all.yaml				  		------NYC事件的参与节点的所有头像特征
 
-NYC_profile_images.zip					  	NYC事件的参与节点的头像（图像压缩包）
+NYC_profile_images.zip					  	------NYC事件的参与节点的头像（图像压缩包）
 
 
 数据用途说明：

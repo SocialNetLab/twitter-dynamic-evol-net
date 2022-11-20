@@ -1,9 +1,6 @@
 # twitter-dynamic-evol-net
 
 基于Twitter流构建的动态演化网络  
-
-
-
 生产环境：Python 3.6.3  
 
 
